@@ -3,26 +3,26 @@ service:
   enable : true
   title : Our Services
   service_Item :
-    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      title : WordPress Theme
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      title : Systems Architecture
+      content : Need a consult from a technical architecture expert? We can provide assistance with database__, cloud migrations, request mapping, or 
       
-    - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      title : Responsive Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
+      title : API Design
+      content : Integrations are exciting! Whether you aim to develop internal APIs, buildout external APIs, or connect to 3rd party APIs, we've got you covered.
       
-    - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      title : Media &amp; Advertisement
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      title : Process Improvement
+      content : From inventorying your workflows, to simplifying them, we are happy to help you remove friction so you can get clear and organized. 
       
-    - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      title : Graphic Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - icon : ti-menu-alt # themify icon pack : https://themify.me/themify-icons
+      title : Project Management
+      content : If you're low on bandwidth, and need a TPM, Scrum Master, or operations specialist, we can provide support for short term projects. 
       
-    - icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      title : Apps Development
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      title : Leadership Planning
+      content : Let us design and facilitate quarterly/yearly planning workshops to get your leadership team on the same page for your vision of the future. 
       
-    - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      title : Networking
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - icon : ti-shine # themify icon pack : https://themify.me/themify-icons
+      title : Culture Boost
+      content : We believe people are your biggest asset; invest where it counts to make sure they feel heard, appreciated, and excited to come to work everyday. 

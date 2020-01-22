@@ -1,11 +1,11 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_Image : "images/slider/hero-area.jpg"
+  bg_Image : images/slider/side.jpeg
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "ArchSoftSTL"
+  content : "Supporting Teams As They Grow."
   button:
     enable : true
-    label : "Explore Us"
+    label : "Learn More"
     link : "#services"

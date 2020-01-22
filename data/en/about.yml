@@ -3,14 +3,14 @@ about:
   enable : true
   title : About Us
   about_Item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  #- icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    #title : Our Approach
+    #content : Every project is unique. If you are going through a period of rapid growth, we would love to hear from you! Reach out to schedule a consult.  If we think we might be a good fit, we can plan a discovery session.  
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  #- icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    #title : Typical Process
+    #content : Phone Consult, Discovery Meeting, Project Proposal, Contract Signing, Resource Gathering, Project Execution
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  #- icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    #title : Our Passions
+    #content : We are problem solvers, tech enthusiasts, and passionate entrepreneurs. More than anything else, we love to help teams grow! ​Out of the office, we can be found creating in the kitchen, exploring the outdoors, and grabbing a local beer or craft cocktail with friends.

@@ -2,9 +2,10 @@
 cta:
   enable : true
   bg_Image : "images/backgrounds/bg-1.jpg"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Our Approach"
+  content : Every project is unique. If you are going through a period of rapid growth, we would love to hear from you! Reach out to schedule a consult.  If we think we might be a good fit, we can plan a discovery session.  
+
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Get in Touch"
     link : "#contact"
