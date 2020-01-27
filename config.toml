@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://www.archsoftwaresolutions.com"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
@@ -125,3 +125,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
+
+[[deployment.targets]]
+name = "gcs"
+URL = "gs://www.archsoftwaresolutions.com/"
