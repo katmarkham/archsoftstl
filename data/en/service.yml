@@ -5,7 +5,7 @@ service:
   service_Item :
     - icon : ti-server # themify icon pack : https://themify.me/themify-icons
       title : Systems Architecture
-      content : Need a consult from a technical architecture expert? We can provide assistance with database__, cloud migrations, request mapping, or 
+      content : Need a consult from a technical architecture expert? We have experience architecting infrastructure with a focus on DevOps methodologies, making the transition from a monolith to to a microservices, and how to decompose large and complex data systems. 
       
     - icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
       title : API Design
