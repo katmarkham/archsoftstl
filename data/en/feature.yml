@@ -2,8 +2,8 @@
 feature:
   enable : true
   image : images/about/archbwedit.jpeg
-  title : We love to help teams grow! <br /> 
-  content : Arch Software Solutions was founded in 2018 in St. Louis, MO.  In 2020 we moved into our current office space, downtown at Covo, and rebranded as ArchSoftSTL. <br /> <br /> We provide technical solutions architecture, application architecture, short term project management, strategic planning services, and product analysis. Our fundamental purpose is to facilitate the creation of efficient systems and products.  We aim to support companies that are in the midst of, or planning for, rapid growth. <br /> <br />The skillsets of our founders are extremely complimentary. Our technical expertise can help you streamline your processes, create new functionality, or expand existing volumes.  Our services can also be temporarily contracted to assist with bandwidth issues. 
+  title : We love to help teams grow! <br/> 
+  content : Arch Software Solutions was founded in 2018 in St. Louis, MO.  In 2020 we moved into our current office space, downtown at Covo. <br /> <br /> We provide technical solutions architecture, application architecture, short term project management, strategic planning services, and product analysis. Our fundamental purpose is to facilitate the creation of efficient systems and products.  We aim to support companies that are in the midst of, or planning for, rapid growth. <br /> <br />The skillsets of our founders are extremely complimentary. Our technical expertise can help you streamline your processes, create new functionality, or expand existing volumes.  Our services can also be temporarily contracted to assist with bandwidth issues. 
   feature_Item : 
     #- icon : ti-world # themify icon pack : https://themify.me/themify-icons
       #title : SEO Optimized

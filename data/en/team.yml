@@ -28,8 +28,7 @@ team:
       content : >
         Boston University <br /> 
         -B.S. in Business Administration <br />
-        -SCRUM Certified <br />
-        -Six Sigma Greenbelt
+        -SCRUM and Six Sigma Greenbelt Certified
       social_Icon :
         #- icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           #link : "#"
